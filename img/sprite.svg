@@ -1,0 +1,46 @@
+<svg width="0" height="0" class="hidden">
+  <symbol  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="catalog">
+    <path d="M3 12H13"  stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M3 6H21"  stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M3 18H19"  stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+  <symbol version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 11 20" id="arrow-drop">
+    <title>arrow_forward_ios</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons"  stroke-width="1" fill="none" fill-rule="evenodd">
+      <g id="Rounded" transform="translate(-345.000000, -3434.000000)">
+        <g id="Navigation" transform="translate(100.000000, 3378.000000)">
+          <g id="-Round-/-Navigation-/-arrow_forward_ios" transform="translate(238.000000, 54.000000)">
+            <g>
+              <polygon id="Path" opacity="0.87" points="24 24 0 24 0 0 24 0"></polygon>
+              <path d="M7.38,21.01 C7.87,21.5 8.66,21.5 9.15,21.01 L17.46,12.7 C17.85,12.31 17.85,11.68 17.46,11.29 L9.15,2.98 C8.66,2.49 7.87,2.49 7.38,2.98 C6.89,3.47 6.89,4.26 7.38,4.75 L14.62,12 L7.37,19.25 C6.89,19.73 6.89,20.53 7.38,21.01 Z" id="🔹-Icon-Color" fill="#fff"></path>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </symbol>
+  <symbol enable-background="new 0 0 32 32" id="arrow-link" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32">
+    <path clip-rule="evenodd" d="M32,16.009c0-0.267-0.11-0.522-0.293-0.714  l-9.899-9.999c-0.391-0.395-1.024-0.394-1.414,0c-0.391,0.394-0.391,1.034,0,1.428l8.193,8.275H1c-0.552,0-1,0.452-1,1.01  s0.448,1.01,1,1.01h27.586l-8.192,8.275c-0.391,0.394-0.39,1.034,0,1.428c0.391,0.394,1.024,0.394,1.414,0l9.899-9.999  C31.894,16.534,31.997,16.274,32,16.009z"  fill-rule="evenodd" id="Arrow_Forward"></path>
+    <g></g>
+    <g></g>
+    <g></g>
+    <g></g>
+    <g></g>
+    <g></g>
+  </symbol>
+   <symbol  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23 20" id="order-btn">
+    <path d="M21.3145 8.58093H1.31445V18.9513H21.3145V8.58093Z"  stroke-width="1.42857" stroke-miterlimit="22.9256" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M4.27742 8.58093V14.5069"  stroke-width="1.42857" stroke-miterlimit="22.9256" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M7.98112 8.58093V10.8032"  stroke-width="1.42857" stroke-miterlimit="22.9256" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M10.9441 8.58093V14.5069"  stroke-width="1.42857" stroke-miterlimit="22.9256" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M14.6478 8.58093V10.8032"  stroke-width="1.42857" stroke-miterlimit="22.9256" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M17.6107 8.58093V14.5069"  stroke-width="1.42857" stroke-miterlimit="22.9256" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M1.31445 8.58099V1.17358"  stroke-width="1.42857" stroke-miterlimit="22.9256" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M21.3145 9.32173V1.17358"  stroke-width="1.42857" stroke-miterlimit="22.9256" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M1.31445 3.39575H21.3145"  stroke-width="1.42857" stroke-miterlimit="22.9256" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M4.27742 1.17358L1.31445 3.39581L4.27742 5.61803"  stroke-width="1.42857" stroke-miterlimit="22.9256" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M17.6107 1.17358L21.3144 3.39581L17.6107 5.61803"  stroke-width="1.42857" stroke-miterlimit="22.9256" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+</svg>
+
